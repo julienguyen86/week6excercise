@@ -1,0 +1,27 @@
+#exercise4 h1 {
+  background-color: tomato;
+  border: 2px solid black;
+  font-size: 24px;
+  width: 50%;
+}
+
+#exercise4 h1.styleSwitch {
+  background-color: blue;
+  border: 2px solid tomato;
+  color: white;
+  font-size: 24px;
+  width: 75%;
+ }
+
+#exercise9 {
+  background-color: red;
+  margin: 25px 0;
+  padding: 50px;
+}
+
+#exercise13 {
+  background-color: gold;
+  margin: 25px 0;
+  padding: 50px;
+}
+
